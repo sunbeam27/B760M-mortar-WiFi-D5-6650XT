@@ -19,3 +19,6 @@ oc
 - USB
 - 蓝牙
 - 音频
+
+
+[opencore make usb](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/mac-install.html#munki-s-installinstallmacos-utility)
